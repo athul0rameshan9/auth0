@@ -1,0 +1,5 @@
+Hello World Full-Stack Security:
+React/JavaScript + Django/Python
+
+
+https://developer.auth0.com/resources/code-samples/full-stack/hello-world/basic-access-control/spa/react-javascript/django-python
